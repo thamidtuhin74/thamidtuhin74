@@ -16,7 +16,7 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Al Tahmiduzzaman" /> 
- <img src="https://img.shields.io/badge/Languages-C|C++|Java|JavaScript|Reactjs-green.svg | WordPress" alt="Al Tahmiduzzaman's languages" />
+ <img src="https://img.shields.io/badge/Languages- C | C++ | Java | JavaScript | Reactjs | WordPress-green.svg" alt="Al Tahmiduzzaman's languages" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="assets/programmer.gif">
