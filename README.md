@@ -10,7 +10,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4">
+<img align="right" alt="Coding" width="400" src="[https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4](https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216)">
 <br>
 
 - 🔭 I’m currently working on **My Personal Project**
