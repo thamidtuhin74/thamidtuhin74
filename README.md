@@ -2,12 +2,21 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Al Tahmiduzzaman</h1>
-<h3 align="center">A passionate Front End developer from Bangladesh</h3>
+<!-- <h3 align="center">A passionate Front End developer from Bangladesh</h3> -->
+<p align="center">
+  <a href="https://github.com/thamidtuhin74/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Front+End+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
+<p align="center">
+  <em>
+    This is me <b>Ratheshan Sathiyamoorthy</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.recr.edu.bd/"> affiliate program of <b> the University of Rajshahi </b>, Bangladesh</a>.
+    An aspiring <b>Front-End Web Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Wordpress Developer</b> 
+  <br>
+  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+</p>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Al Tahmiduzzaman" /> 
  <img src="https://img.shields.io/badge/Languages-C|C++|Java|JavaScript|Reactjs-green.svg | WordPress" alt="Al Tahmiduzzaman's languages" />
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
 <img align="right" alt="Coding" width="400" src="assets/programmer.gif">
