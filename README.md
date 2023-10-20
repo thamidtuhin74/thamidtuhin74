@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <em>
-    This is me <b>Ratheshan Sathiyamoorthy</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.recr.edu.bd/"> affiliate program of <b> the University of Rajshahi </b>, Bangladesh</a>.
+    This is me <b>Al Tahmiduzzaman</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.recr.edu.bd/"> affiliate program of <b> the University of Rajshahi </b>, Bangladesh</a>.
     An aspiring <b>Front-End Web Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Wordpress Developer</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
@@ -82,9 +82,18 @@
 </p>
 <br/>
 
-<h3 align="left">Achievements:</h3>
-<!-- 
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97) -->
+<h3 align="left">Github Stats:</h3>
+
+<p align="center">
+  <a href="https://github.com/thamidtuhin74">
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=thamidtuhin74&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/thamidtuhin74">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamidtuhin74&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thamidtuhin74&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="thamidtuhin74" /></p>
+  
 
 <br>
 <p align="right" > Created with 🧡 by <a href="https://tahmidtuhin.com">Al Tahmiduzzaman</a></p>
