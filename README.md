@@ -6,7 +6,7 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Al Tahmiduzzaman" /> 
- <img src="https://img.shields.io/badge/Languages- C | C++ | Java | JavaScript | React Web dev -green.svg | WordPress" alt="Al Tahmiduzzaman's languages" />
+ <img src="https://img.shields.io/badge/Languages- C | C++ | Java | JavaScript " alt="Al Tahmiduzzaman's languages" />
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
@@ -15,15 +15,15 @@
 
 - 🔭 I’m currently working on **UA IT(JKH IT)**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://tahmidtuhin74@gmail.com)
+- 👨‍💻 All of my projects are available at [supun's workspace](https://tahmidtuhin74@gmail.com)
 
-- 💬 Ask me about **Frontend development with MERN & Wordpress**
+- 💬 Ask me about **Frontend development with MERN & WordPress**
 
 - 📫 How to reach me **thamidtuhin74@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences](https://supun.traditionalme.life/#resume)
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -47,7 +47,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,boostrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,bootstrap,html,css" />
   </a>
 </p>
 
