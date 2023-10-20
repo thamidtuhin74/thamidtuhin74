@@ -32,9 +32,9 @@
 
 - 📫 How to reach me **thamidtuhin74@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://drive.google.com/drive/u/0/folders/1CmDZUGdXGedM2ezKAKLSWNRWmSTPiuqh)
+- 📄 Know about my experiences [my resume](https://drive.google.com/drive/u/0/folders/1CmDZUGdXGedM2ezKAKLSWNRWmSTPiuqh)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm funny and Interesting Man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
