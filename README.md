@@ -6,24 +6,24 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Al Tahmiduzzaman" /> 
- <img src="https://img.shields.io/badge/Languages- C | C++ | Java | JavaScript " alt="Al Tahmiduzzaman's languages" />
+ <img src="https://img.shields.io/badge/Languages- C | C++ | Java | JavaScript | React Web dev -green.svg | WordPress" alt="Al Tahmiduzzaman's languages" />
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 <br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working on **My Personal Project**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](https://tahmidtuhin74@gmail.com)
+- 👨‍💻 All of my projects are available at [Al Tahmiduzzaman's Portfolio](http://tahmidtuhin74@gmail.com)
 
-- 💬 Ask me about **Frontend development with MERN & WordPress**
+- 💬 Ask me about **Frontend development with MERN & Wordpress**
 
 - 📫 How to reach me **thamidtuhin74@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences](https://drive.google.com/drive/u/0/folders/1CmDZUGdXGedM2ezKAKLSWNRWmSTPiuqh)
 
 - ⚡ Fun fact **I think I'm funny**
 
