@@ -1,6 +1,6 @@
 ![logo](supun-ba2.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216" width="20%" style="display:inline;">
+<div class="tenor-gif-embed" data-postid="13165216" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">Sultan Alrefaei Programmer GIF</a>from <a href="https://tenor.com/search/sultan+alrefaei-gifs">Sultan Alrefaei GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">Hi 👋, I'm Al Tahmiduzzaman</h1>
 <h3 align="center">A passionate Front End developer from Bangladesh</h3>
