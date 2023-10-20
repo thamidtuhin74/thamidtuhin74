@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on **My Personal Project**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [Al Tahmiduzzaman's Portfolio](http://tahmidtuhin74@gmail.com)
+- 👨‍💻 All of my projects are available at [Al Tahmiduzzaman's Portfolio](https://tahmidtuhin74@gmail.com)
 
-- 💬 Ask me about **Frontend development with MERN & Wordpress**
+- 💬 Ask me about **Frontend development with MERN & WordPress**
 
 - 📫 How to reach me **thamidtuhin74@gmail.com**
 
@@ -78,4 +78,4 @@
 [![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97) -->
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://tahmidtuhin.com">Al Tahmiduzzaman</a></p>
+<p align="right" > Created with 🧡 by <a href="https://tahmidtuhin.com">Al Tahmiduzzaman</a></p>
