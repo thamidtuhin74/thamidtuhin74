@@ -5,8 +5,8 @@
 <h3 align="center">A passionate Front End developer from Bangladesh</h3>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
- <img src="https://img.shields.io/badge/Languages-Python | Java | Node | Php | React Web dev -green.svg" alt="supun nanayakkara's languages" />
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Al Tahmiduzzaman" /> 
+ <img src="https://img.shields.io/badge/Languages-C | C++ | Java | JavaScript | React Web dev -green.svg | WordPress" alt="Al Tahmiduzzaman's languages" />
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
@@ -19,9 +19,9 @@
 
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Frontend development with MERN & Wordpress**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 How to reach me **thamidtuhin74@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
@@ -29,11 +29,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamidtuhin74" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 <a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thamidtuhin74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Al Tahmiduzzaman" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -48,49 +48,35 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,ts,boostrap" />
+    <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,boostrap,html,css " />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
-- Cloud Servers
+<!-- - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase" />
   </a>
-</p>
+</p> -->
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,figma,linux,idea,vscode,postman,termius,dbeaver,putty" />
+    <img src="https://skillicons.dev/icons?i=git,figma,photoshop,vscode,postman,firebase,netlify,vercel " />
   </a>
 </p>
 <br/>
 
 <h3 align="left">Achievements:</h3>
-
-[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
+<!-- 
+[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97) -->
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
-<!--
-**thamidtuhin74/thamidtuhin74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right" > Created with 🧡 by <a href="http://tahmidtuhin.com">Al Tahmiduzzaman</a></p>
