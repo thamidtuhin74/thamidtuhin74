@@ -6,7 +6,7 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Al Tahmiduzzaman" /> 
- <img src="https://img.shields.io/badge/Languages- C | C++ | Java | JavaScript | React Web dev -green.svg | WordPress" alt="Al Tahmiduzzaman's languages" />
+ <img src="https://img.shields.io/badge/Languages-C | C++ | Java | JavaScript | React Web dev -green.svg | WordPress" alt="Al Tahmiduzzaman's languages" />
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
