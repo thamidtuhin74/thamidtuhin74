@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [Al Tahmiduzzaman's Portfolio](https://tahmidtuhin74@gmail.com)
+- 👨‍💻 All of my projects are available at [Al Tahmiduzzaman's Portfolio](https://tahmidtuhin.sultanscabin.com/)
 
 - 💬 Ask me about **Frontend development with MERN & WordPress**
 
@@ -34,7 +34,7 @@
 
 - 📄 Know about my experiences [my resume](https://drive.google.com/drive/u/0/folders/1CmDZUGdXGedM2ezKAKLSWNRWmSTPiuqh)
 
-- ⚡ Fun fact **I think I'm funny and Interesting Man**
+- ⚡ Fun fact **I think I'm a Humble and Interesting Man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
