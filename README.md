@@ -16,7 +16,7 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Al Tahmiduzzaman" /> 
- <img src="https://img.shields.io/badge/Languages- C | C++ | Java | JavaScript -green.svg" alt="Al Tahmiduzzaman's languages" />
+ <img src="https://img.shields.io/badge/Languages- C | C++ | Java | JavaScript | TypeScript -green.svg" alt="Al Tahmiduzzaman's languages" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="assets/programmer.gif">
@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **thamidtuhin74@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/drive/u/0/folders/1CmDZUGdXGedM2ezKAKLSWNRWmSTPiuqh)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1ejCARM218WeNwga00FLPRJgYWwxEo57Z/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm a Humble and Interesting Man**
 
@@ -49,7 +49,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,typescript" />
   </a>
 </p>
 
