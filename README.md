@@ -14,6 +14,25 @@
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=thamidtuhin74" target="_blank">Follow on LinkedIn</a>
+
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Al Tahmiduzzaman" /> 
  <img src="https://img.shields.io/badge/Languages- C | C++ | Java | JavaScript | TypeScript -green.svg" alt="Al Tahmiduzzaman's languages" />
