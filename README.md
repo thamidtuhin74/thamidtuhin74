@@ -112,4 +112,4 @@
   
 
 <br>
-<p align="right" > Created with 🧡 by <a href="https://tahmidtuhin.sultanscabin.com/">Al Tahmiduzzaman (Tahmid Tuhin) Tuhin</a></p>
+<p align="right" > Created with 🧡 by <a href="https://tahmidtuhin.sultanscabin.com/">Al Tahmiduzzaman (Tahmid Tuhin)</a></p>
